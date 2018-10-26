@@ -1,3 +1,4 @@
 module.exports = [
-  'Eric Adamski'
+  'Eric Adamski',
+  'Hassan Salam',
 ];
